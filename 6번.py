@@ -1,5 +1,5 @@
-#게임 캐릭터 클래스 만들기 
-#class 에서 __init__ 의 사용법을 알아두자 
+#게임 캐릭터 클래스 만들기
+#class 에서 __init__ 의 사용법을 알아두자
 class Wizard:
     def __init__(self,health, mama,armor):
         self.health = health;

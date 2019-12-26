@@ -4,7 +4,7 @@
 def one(n):
     def two(value):
         return value ** n
-    # **의 의미는 제곱임 
+    # **의 의미는 제곱임
     return two
 
 #return two 를 one 함수에서 하므로 a 는 two 함수의 역할을 할 수 있음

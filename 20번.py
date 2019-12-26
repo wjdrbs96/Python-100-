@@ -1,5 +1,5 @@
 # count 사용하기
-# format 사용법 익히고, count 내장함수 기억하기 
+# format 사용법 익히고, count 내장함수 기억하기
 l = input("입력").split()
 count=0
 for i in range(1,len(l)):

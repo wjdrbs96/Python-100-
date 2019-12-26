@@ -1,4 +1,4 @@
-#4번 print문에서 end 의 활용법 
+#4번 print문에서 end 의 활용법
 
 year = '2019'
 month = '04';

@@ -5,12 +5,12 @@ Python_Study
          
          
          
-![파이썬100](./image/python100.PNG){:width="200" height="200"}
+![파이썬100](./image/python100.png){: width="200" height="200"}
 <br><br>
-![강의구성](./image/강의구성.PNG){:width="200" height="200"}
+![강의구성](./image/강의구성.png){: width="200" height="200"}
 <br><br>
-![강좌구성](./image/강좌구성.PNG){:width="200" height="200"}
+![강좌구성](./image/강좌구성.png){: width="200" height="200"}
 <br><br>
-![문제다운로드](./image/문제다운로드.PNG){:width="200" height="200"}
+![문제다운로드](./image/문제다운로드.png){: width="200" height="200"}
 <br><br>
-![수강대상](./image/수강대상.PNG){:width="200" height="200"}
+![수강대상](./image/수강대상.PNG){: width="200" height="200"}

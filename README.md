@@ -2,8 +2,7 @@
 Python_Study 
 <h1> 파이썬 100제 풀어서 올리는 공간</h1>
 
-<a href="https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-100%EC%A0%9C-%EC%A0%9C%EC%A3%BC%EC%BD%94%EB%94%A9%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%BA%A0%ED%94%84#><h1>파이썬 100제</h1>
-</a>
+<a href="https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-100%EC%A0%9C-%EC%A0%9C%EC%A3%BC%EC%BD%94%EB%94%A9%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%BA%A0%ED%94%84#"><h1>파이썬 100제</h1></a>
          
          
          
